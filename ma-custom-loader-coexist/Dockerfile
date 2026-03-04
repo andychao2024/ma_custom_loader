@@ -1,4 +1,4 @@
-ARG BUILD_FROM=ghcr.io/music-assistant/server:stable
+ARG BUILD_FROM=ghcr.nju.edu.cn/music-assistant/server:latest
 FROM $BUILD_FROM
 
 
